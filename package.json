@@ -1,0 +1,11 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "Learn Unit Testing with Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "jjeske@netspend.com",
+  "license": "UNLICENSED"
+}

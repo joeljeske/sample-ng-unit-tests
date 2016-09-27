@@ -1,0 +1,7 @@
+{
+  "directory": "bower_components",
+  "analytics": false,
+  "timeout": 120000,
+  "registry": "http://bower.herokuapp.com",
+  "proxy": "http://127.0.0.1:9999"
+}

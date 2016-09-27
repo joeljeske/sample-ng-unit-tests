@@ -1,0 +1,18 @@
+{
+  "name": "unit-tests",
+  "description": "Learn Unit Testing with Angular",
+  "main": "index.js",
+  "authors": [
+    "jjeske@netspend.com"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
