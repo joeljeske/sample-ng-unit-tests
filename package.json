@@ -4,8 +4,18 @@
   "description": "Learn Unit Testing with Angular",
   "main": "index.js",
   "scripts": {
+    "postinstall": "bower install",
     "test": "gulp test"
   },
   "author": "jjeske@netspend.com",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "karma": "1.3.0",
+    "karma-chrome-launcher": "2.0.0",
+    "karma-coverage": "1.1.1",
+    "karma-jasmine": "0.2.3",
+    "karma-mocha-reporter": "2.2.0",
+    "karma-phantomjs2-launcher": "0.5.0"
+  }
 }
